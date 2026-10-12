@@ -1,0 +1,6 @@
+{
+  "name": "PS Courier",
+  "description": "Third-party courier aggregator with Razorpay payment gateway, smart Shadowfax & Indian Post routing, Zone rate calculator inclusive of 18% GST (Zone A ₹80, Zone B ₹90, Zone C/D ₹100, Zone E ₹120, COD ₹50), in-app wallet, address book, and help center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

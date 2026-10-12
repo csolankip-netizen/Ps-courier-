@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fast Motion Speed trails -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M20,44 L32,49 L30,52 L18,47 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M16,55 L30,59 L28,62 L14,58 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M22,66 L31,69 L29,72 L20,69 Z" />
+
+    <!-- Isometric Parcel Box: Top Face -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,28 L76,39 L54,50 L32,39 Z" />
+
+    <!-- Top Tape -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M43,33.5 L65,44.5 L61,46.5 L39,35.5 Z" />
+
+    <!-- Isometric Parcel Box: Left Face -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M32,39 L54,50 L54,74 L32,63 Z" />
+
+    <!-- Left Face Tape Accent -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M39,42.5 L43,44.5 L43,68.5 L39,66.5 Z" />
+
+    <!-- Isometric Parcel Box: Right Face -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,50 L76,39 L76,63 L54,74 Z" />
+
+    <!-- Fast forward delivery arrow / emblem on Right Face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,58 L68,53 L68,57 L62,60 L68,63 L68,67 Z" />
+
+    <!-- Pulsing Location Pin accent on top-right -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M78,24 C78,20.7 75.3,18 72,18 C68.7,18 66,20.7 66,24 C66,28.5 72,35 72,35 C72,35 78,28.5 78,24 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,22.5 A1.5,1.5 0 1,0 72,25.5 A1.5,1.5 0 1,0 72,22.5 Z" />
+</vector>
